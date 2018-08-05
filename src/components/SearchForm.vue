@@ -8,7 +8,7 @@
   </div>
   <div class="field">
       <button class="button is-success">
-        Login
+        Go!
       </button>
   </div>
 </div>
